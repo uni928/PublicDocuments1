@@ -7,7 +7,7 @@
 | ファイル | 説明 |
 | --- | --- |
 | [1_おすすめ便利サイト一覧part1.html](https://uni928.github.io/PublicDocuments1/1_おすすめ便利サイト一覧part1.html) | おすすめの便利サイト一覧（Part 1）を開くためのHTMLファイルです。 |
-| [2_Uni928PublicHTMLs に公開したサイト.html](https://uni928.github.io/PublicDocuments1/2_Uni928PublicHTMLs に公開したサイト.html) | Uni928PublicHTMLs に公開したサイトをまとめたHTMLファイルです。 |
+| [2_Uni928PublicHTMLsに公開したサイト.html](https://uni928.github.io/PublicDocuments1/2_Uni928PublicHTMLs に公開したサイト.html) | Uni928PublicHTMLs に公開したサイトをまとめたHTMLファイルです。 |
 | [`README.md`](README.md) | リポジトリの概要、ファイル構成、閲覧方法を案内する文書です。 |
 
 ## 閲覧方法
