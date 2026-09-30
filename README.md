@@ -3,3 +3,10 @@
 [x.gd/rR9dV](https://uni928.github.io/Uni928PublicHTMLs/index80.html) の容量削減保存を使った資料です。
 
 公開したい資料を乱雑に置くだけなので、閲覧者に有益かどうかは不明です。ご了承ください。
+
+---
+
+https://uni928.github.io/PublicDocuments1/ファイル名
+
+で閲覧できます。
+
