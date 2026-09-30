@@ -9,6 +9,7 @@
 | [1_おすすめ便利サイト一覧part1.html](https://uni928.github.io/PublicDocuments1/1_おすすめ便利サイト一覧part1.html) | おすすめの便利サイト一覧（Part 1）を開くためのHTMLファイルです。 |
 | [2_Uni928PublicHTMLsに公開したサイト.html](https://uni928.github.io/PublicDocuments1/2_Uni928PublicHTMLsに公開したサイト.html) | Uni928PublicHTMLs に公開したサイトをまとめたHTMLファイルです。 |
 | [3_仕事で使うサイト一覧.html](https://uni928.github.io/PublicDocuments1/3_仕事で使うサイト一覧.html) | 仕事で使うサイトを並べました。 |
+| [4_ChatGPT便利アクセス.html](https://uni928.github.io/PublicDocuments1/4_ChatGPT便利アクセス.html) | ChatGPT便利アクセス用です。|
 | [`README.md`](README.md) | リポジトリの概要、ファイル構成、閲覧方法を案内する文書です。 |
 
 ## 閲覧方法
