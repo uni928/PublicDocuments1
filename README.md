@@ -10,6 +10,7 @@
 | [2_Uni928PublicHTMLsに公開したサイト.html](https://uni928.github.io/PublicDocuments1/2_Uni928PublicHTMLsに公開したサイト.html) | Uni928PublicHTMLs に公開したサイトをまとめたHTMLファイルです。 |
 | [3_仕事で使うサイト一覧.html](https://uni928.github.io/PublicDocuments1/3_仕事で使うサイト一覧.html) | 仕事で使うサイトを並べました。 |
 | [4_ChatGPT便利アクセス.html](https://uni928.github.io/PublicDocuments1/4_ChatGPT便利アクセス.html) | ChatGPT便利アクセス用です。|
+| [5_uni928GitHub高速アクセス用.html](https://uni928.github.io/PublicDocuments1/5_uni928GitHub高速アクセス用.html) | 個人用 |
 | [`README.md`](README.md) | リポジトリの概要、ファイル構成、閲覧方法を案内する文書です。 |
 
 ## 閲覧方法
